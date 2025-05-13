@@ -1,0 +1,16 @@
+filename = 'framing_templates-1.0.1b.jar'
+name = 'Framing Templates'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2cc36171e40afa17ebb78078d0e0a5a16ab4b997'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5736786
+project-id = 984988

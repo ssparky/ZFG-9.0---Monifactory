@@ -1,0 +1,16 @@
+filename = 'bauble_dragons-0.1-1.20.1.jar'
+name = 'Bauble Dragons'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3fbc68fe7c346232607a658a077fa6f076ef1a95815f003916b4b18d861c31d28141e242af8a75cef15f570a43debceea6f6329506b55be5a03519558f781f11'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yKx6rMnH/versions/kvD5zu77/bauble_dragons-0.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'yKx6rMnH'
+version = 'kvD5zu77'

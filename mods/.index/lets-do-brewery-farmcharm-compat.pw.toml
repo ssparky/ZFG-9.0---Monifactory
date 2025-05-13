@@ -1,0 +1,16 @@
+filename = 'letsdo-brewery-forge-2.0.5.jar'
+name = "[Let's Do] Brewery - Farm&Charm Compat"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'edfb889ec852330e07bda3a30a75d4217d6e9f9d51f840c69cdd44edb9056e20ad5df410f2083fccfa7faf82fab661850859ae7ff9eed728f03d90b66983fc60'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b7NV2plI/versions/FqTtwhl4/letsdo-brewery-forge-2.0.5.jar'
+
+[update.modrinth]
+mod-id = 'b7NV2plI'
+version = 'FqTtwhl4'

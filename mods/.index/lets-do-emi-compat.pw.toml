@@ -1,0 +1,16 @@
+filename = 'emi-letsdo-compat-1.5.jar'
+name = "[Let's Do Addon] EMI Compat"
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '38dcf6d078cc99eaf300455e42e2f2d5d36556e22f9ef684593be637e94d130f7e3d81090292dbc882aba954d4eded8d0c873c12f11b4c59b15a2f93a23d65ba'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k6hi4lMv/versions/INLVt7u2/emi-letsdo-compat-1.5.jar'
+
+[update.modrinth]
+mod-id = 'k6hi4lMv'
+version = 'INLVt7u2'

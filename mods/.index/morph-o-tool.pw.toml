@@ -1,0 +1,16 @@
+filename = 'Morph-o-Tool-1.7-38.jar'
+name = 'Morph-o-Tool'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '434fdb1c3fac9d2c67dbb996ef31f0d09f3849c18c53ddb216242717132f938f93d5b4f800609820b5da3160c68990ddfba5284020e0ce30091c05c2749cd0dd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rtbzFq0N/versions/CItFodYh/Morph-o-Tool-1.7-38.jar'
+
+[update.modrinth]
+mod-id = 'rtbzFq0N'
+version = 'CItFodYh'

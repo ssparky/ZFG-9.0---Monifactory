@@ -1,0 +1,16 @@
+filename = 'baublemounts-2.0.0-1.20.1.jar'
+name = 'Bauble Mounts'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '948dc3af24bced619028dbe61dc49ca1fc6db5569a0d398ae50aa157f84e8085efe8af7c7b5ab98b5dbf286fa93f4336a08443b72c0ec16dace81ed4e64e6843'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Yn6CkQZ8/versions/d1lpgsnc/baublemounts-2.0.0-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Yn6CkQZ8'
+version = 'd1lpgsnc'

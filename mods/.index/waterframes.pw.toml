@@ -1,0 +1,16 @@
+filename = 'waterframes-FORGE-mc1.20.1-v2.1.9.jar'
+name = 'WATERFrAMES: Multimedia Displays'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '80a7475b04948f126ceb5718eff24fe67d1e5ac7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6000961
+project-id = 834607

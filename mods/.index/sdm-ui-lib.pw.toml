@@ -1,0 +1,16 @@
+filename = 'sdm_ui_lib-forge-1.20.1-1.8.3.jar'
+name = 'SDM UI Lib'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cf2da73e111697c44c2b55fe0a03711b3a682c2832836d85b4fd73ba9098ee92dee9e392e5dcc0ee57d240ddf00e9f816353d37e7c036d6d9cde3e56548f7278'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MdmRC4B5/versions/SqwJk0Bv/sdm_ui_lib-forge-1.20.1-1.8.3.jar'
+
+[update.modrinth]
+mod-id = 'MdmRC4B5'
+version = 'SqwJk0Bv'

@@ -1,0 +1,16 @@
+filename = 'tesseract-1.0.37-forge-mc1.20.1.jar'
+name = 'Tesseract'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '908cc868dd6cc00127c3a5bc9e9d9d93c6320089ea2c194c748309ee81f8379c510117681050ce5626de065cc6754327cc87373730c40aabc98866929ec7fdd1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OUhp5O2m/versions/5uAFSAA4/tesseract-1.0.37-forge-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'OUhp5O2m'
+version = '5uAFSAA4'

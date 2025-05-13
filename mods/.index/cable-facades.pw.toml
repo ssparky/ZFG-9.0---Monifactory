@@ -1,0 +1,16 @@
+filename = 'cable_facades-1.20.1-Forge-1.3.1.jar'
+name = 'Cable Facades'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '84c98cc2b2eeaa7c6f65188012f54b817631a134'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6303573
+project-id = 1140577

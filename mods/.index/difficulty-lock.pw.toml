@@ -1,0 +1,16 @@
+filename = 'difficultylock-1.20.1-4.6.jar'
+name = 'Difficulty Lock'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dfdab1661292c47f86706333d67ecf65eaffad63'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5572725
+project-id = 390886

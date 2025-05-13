@@ -1,0 +1,16 @@
+filename = 'citresewn-1.20.1-4.jar'
+name = 'Forge CIT'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a76eba4314f8bf39846f004f8dc20cf771a9a26b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4756746
+project-id = 912099

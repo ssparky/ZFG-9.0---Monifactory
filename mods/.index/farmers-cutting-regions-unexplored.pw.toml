@@ -1,0 +1,16 @@
+filename = 'farmers-cutting-regions-unexplored-1.20.1-1.1a-forge.jar'
+name = "Farmer's Cutting: Regions Unexplored"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2b0a3f2cb72aaff18167a062d3d7a96df9dcd37f5bfb5ef9466a583aeca932cf16410fd4d47f46dff4e6fd4b90760b7e81d1ce5e6df4334732e75ca6ababd5f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lFKDc2ny/versions/wfwJ4JY8/farmers-cutting-regions-unexplored-1.20.1-1.1a-forge.jar'
+
+[update.modrinth]
+mod-id = 'lFKDc2ny'
+version = 'wfwJ4JY8'

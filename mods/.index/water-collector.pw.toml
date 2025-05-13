@@ -1,0 +1,16 @@
+filename = 'watercollector-1.20.1-1.1.0.jar'
+name = 'Water Collector'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '34eeff6961edcf596e90ed6e40b74b6d1101c1a5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5551155
+project-id = 1016115

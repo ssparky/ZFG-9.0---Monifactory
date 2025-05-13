@@ -1,0 +1,16 @@
+filename = 'letsdo-farm_and_charm-forge-1.0.6.jar'
+name = "[Let's Do] Farm & Charm"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '9c7ae4f7efa61404a1b21f8710d055bf4bdd6215c20e09206c100b8b25f29f643d8574238d6678e67733cb373b811578f9691a1a2aba9bb9a6196875f49d236a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HJetCzWo/versions/ACUTXDHt/letsdo-farm_and_charm-forge-1.0.6.jar'
+
+[update.modrinth]
+mod-id = 'HJetCzWo'
+version = 'ACUTXDHt'

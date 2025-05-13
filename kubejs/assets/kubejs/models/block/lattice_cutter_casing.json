@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "kubejs:block/lattice_cutter/lattice_cutter_casing"
+    }
+  }

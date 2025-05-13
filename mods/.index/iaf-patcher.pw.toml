@@ -1,0 +1,16 @@
+filename = 'iaf_patcher-0.2.jar'
+name = 'Ice And Fire Patcher'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '3801e79b948182c0c606da6d3751574941f4d9181129100b6af2e7b227cf65c6c7f07e2de84287be4821e25e53bf5436c4d51e0ce167556f49e7488ec5b60b8a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5ajMogiG/versions/KDxisILB/iaf_patcher-0.2.jar'
+
+[update.modrinth]
+mod-id = '5ajMogiG'
+version = 'KDxisILB'

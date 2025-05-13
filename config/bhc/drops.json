@@ -1,0 +1,30 @@
+{
+  "heartEntries": {
+    "red": {
+      "hostile": 0.01,
+      "iceandfire:deathworm": 0.75,
+      "iceandfire:siren": 0.5
+    },
+    "green": {
+      "dragon": 1.0,
+      "iceandfire:dragon_multipart": 1.0,
+      "iceandfire:fire_dragon": 1.0,
+      "iceandfire:ice_dragon": 1.0,
+      "iceandfire:lightning_dragon": 1.0
+    },
+    "blue": {
+      "minecraft:warden": 1.0,
+      "iceandfire:dread_lich": 1.0
+    },
+    "yellow": {
+      "boss": 1.0,
+      "iceandfire:cyclops": 1.0,
+      "iceandfire:cylcops_multipart": 1.0,
+      "iceandfire:gorgon": 1.0,
+      "iceandfire:hydra": 1.0,
+      "iceandfire:myrmex_queen": 0.75,
+      "iceandfire:sea_serpent": 1.0,
+      "friendsandfoes:wildfire": 1.0
+    }
+  }
+}

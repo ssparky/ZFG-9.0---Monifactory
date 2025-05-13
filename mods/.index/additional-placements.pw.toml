@@ -1,0 +1,16 @@
+filename = 'AdditionalPlacements-1.20.1-2.2.2.jar'
+name = 'Additional Placements'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '652ab053312782b2207d09013a277d56a02bf907fd05d6b9ed9a4a7b91c39eb195a603d308de589ba209f3f082606c60ba6deac53bf341bcff028776f67f1632'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/f5TwOKkb/versions/jMidKQDP/AdditionalPlacements-1.20.1-2.2.2.jar'
+
+[update.modrinth]
+mod-id = 'f5TwOKkb'
+version = 'jMidKQDP'

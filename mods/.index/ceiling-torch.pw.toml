@@ -1,0 +1,16 @@
+filename = 'ceilingtorch-1.20.1-1.32.jar'
+name = 'Ceiling Torch'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1b6c9d1767d160fbe21a437f4b788b1c0cf571165b4ed464fd71af61fd12b577be19b84667c1315e193995ca127daf2e003d2ed9783bcd8679187502fefe9397'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/V1XQ9Kbq/versions/FlzvvObC/ceilingtorch-1.20.1-1.32.jar'
+
+[update.modrinth]
+mod-id = 'V1XQ9Kbq'
+version = 'FlzvvObC'

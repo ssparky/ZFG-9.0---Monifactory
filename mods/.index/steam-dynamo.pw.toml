@@ -1,0 +1,16 @@
+filename = 'steamdynamo-0.1.2.jar'
+name = 'Classic Steam Dynamo'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '92f0ee2cbdd6801889b8664d3fa4a71d86175083'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5203482
+project-id = 990542

@@ -1,0 +1,16 @@
+filename = 'MapFrontiers-1.20.1-2.6.0p6-forge.jar'
+name = 'MapFrontiers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4b94f46d7e6ba231815e1daa1bfb031142e6976c86cf23ff840b7054a6b507ceaf29e9ff6f36d571c7e9db66769d597223d4d181c86103f8c37447df13afd5a3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hWlsli6y/versions/7xzghvJI/MapFrontiers-1.20.1-2.6.0p6-forge.jar'
+
+[update.modrinth]
+mod-id = 'hWlsli6y'
+version = '7xzghvJI'

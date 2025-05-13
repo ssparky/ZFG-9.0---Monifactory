@@ -1,0 +1,16 @@
+filename = 'FastItemFrames-v20.1.1-1.20.1-Forge.jar'
+name = 'Fast Item Frames'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e816d66544a0c323fe8c20dacf3d561cb304321442af790ed6d685c9de0e96ab08dd2800445c45d11fd38ad51a6d2f6eed0cbebb3d285913ff51e3dbaa88b548'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FsoeTIV0/versions/TluX3dEE/FastItemFrames-v20.1.1-1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'FsoeTIV0'
+version = 'TluX3dEE'

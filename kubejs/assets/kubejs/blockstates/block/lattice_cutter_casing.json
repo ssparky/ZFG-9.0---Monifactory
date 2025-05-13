@@ -1,0 +1,7 @@
+{
+    "variants": {
+      "": {
+        "model": "kubejs:block/lattice_cutter_casing.json"
+      }
+    }
+  }
